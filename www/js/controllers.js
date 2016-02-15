@@ -33,7 +33,7 @@ angular.module('starter.controllers', [])
   $scope.currentState = $scope.pauseState;
 
   var changeWord = function(){
-    timer = $timeout(changeWord, 1000);
+    timer = $timeout(changeWord, 4000);
     $scope.currentWordId += 1;
   }
   /*changeState主要做了以下几个事情:
@@ -45,7 +45,7 @@ angular.module('starter.controllers', [])
     if($scope.currentState == $scope.pauseState){
       $scope.currentState = $scope.playState;
       $rootScope.hideTabs = true;
-      $timeout(changeWord, 1000);
+      $timeout(changeWord, 4000);
     }
     else{
       $scope.currentState = $scope.pauseState;
