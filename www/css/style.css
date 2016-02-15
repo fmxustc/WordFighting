@@ -1,0 +1,7 @@
+/* Empty. Add your own CSS if you like */
+button.stateButton::before{
+  font-size: 47px !important;
+}
+button.uploadButton::before{
+  font-size: 54px !important;
+}

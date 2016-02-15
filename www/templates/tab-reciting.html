@@ -1,0 +1,21 @@
+
+<ion-view view-title="背单词">
+  <ion-nav-bar align-title="center" class="bar-positive">
+    <h1>背单词</h1>
+  </ion-nav-bar>
+  <ion-content style="padding-top: 20%;overflow: hidden" overflow-scroll="true" >
+
+    <!--单词的卡片-->
+    <div class="card" style="padding-bottom: 11%;padding-top: 15%">
+      <h1 style="text-align: center;color: #ff7316;font-size: 417%">{{words[currentWordId].english}}</h1>
+      <br>
+      <h1 style="text-align: center;color: #3b9eff;font-size: 280%">{{words[currentWordId].testTips[0].explain.chineseMeaning}}</h1>
+    </div>
+
+    <!--控制进度的卡片-->
+    <div class="button-bar" style="-webkit-padding-before: 10%">
+        <button class={{currentState}} ng-click="changeState()"></button>
+        <button class=" button button-icon icon ion-upload uploadButton"></button>
+    </div>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,17 @@
+<ion-view view-title="我的单词表">
+  <ion-nav-bar align-title="center" class="bar-positive">
+  </ion-nav-bar>
+  <ion-content>
+    <ion-list>
+      <ion-item class="item-remove-animate  item-icon-right" ng-repeat="word in words" type="item-text-wrap" href="#/tab/words/{{word.id}}">
+        <h2>{{word.english}}</h2>
+        <span>{{word.phonetic}}</span>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+
+        <ion-option-button class="button-assertive" ng-click="remove(word)">
+          Delete
+        </ion-option-button>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

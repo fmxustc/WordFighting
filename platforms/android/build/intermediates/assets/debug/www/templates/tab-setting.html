@@ -1,0 +1,20 @@
+
+
+<ion-view view-title="Setting">
+  <ion-nav-bar align-title="center" class="bar-positive">
+    <h1>设置</h1>
+  </ion-nav-bar>
+  <ion-content>
+    <div class="item range range-positive">
+      <i class="icon ion-android-star-outline"></i>
+      <input type="range" name="num" min="300" max="1000" step="50" ng-model="setting.num">
+      <i class="icon ion-android-star"></i>
+    </div>
+
+    <h2>{{setting.num}}</h2>
+
+<p ng-model="ws">{{ws}}</p>
+
+
+  </ion-content>
+</ion-view>

@@ -1,0 +1,21 @@
+
+<ion-view view-title="{{word.english}}" hide-tabs="true">
+  <ion-nav-bar align-title="center" class="bar-positive" style="'font-family': 'Apple Color Emoji'">
+    <ion-nav-back-button>Back</ion-nav-back-button>
+  </ion-nav-bar>
+  <ion-content class="padding">
+    <!--<div class="list card">-->
+      <div class="card" ng-repeat="testTip in word.testTips">
+        <div class="item item-positive item-divider ">考点{{word.testTips.indexOf(testTip)+1}}</div>
+        <div class="item-text-wrap">
+          <h4 style="padding-top: 1%;">&emsp;{{testTip.explain.property}}.   {{testTip.explain.chineseMeaning}}</h4>
+          <h4 style="'font-family': -apple-system;padding: 3%;" >&emsp;{{testTip.explain.englishMeaning}}</h4>
+          <hr>
+          <ion-list>
+            <ion-item ng-repeat="prolongation in testTip.prolongations">{{prolongation.toString()}}</ion-item>
+          </ion-list>
+        </div>
+      </div>
+    <!--</div>-->
+  </ion-content>
+</ion-view>

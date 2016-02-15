@@ -1,0 +1,172 @@
+ [
+    {
+        "english": "abandon",
+        "id": 0,
+        "phonetic": "[ə'bændən]",
+        "testTips": [
+            {
+                "explain": {
+                    "chineseMeaning": "放纵",
+                    "englishMeaning": " carefree, freedom from constraint",
+                    "property": "n"
+                },
+                "prolongations": {
+                    "prolongation_0": "例  added spices to the stew with complete abandon 肆无忌惮地向炖菜里面加调料",
+                    "prolongation_1": "近  unconstraint, uninhibitedness, unrestraint"
+                }
+            },
+            {
+                "explain": {
+                    "chineseMeaning": "放纵",
+                    "englishMeaning": " to give (oneself) over unrestrainedly",
+                    "property": "v"
+                },
+                "prolongations": {
+                    "prolongation_0": "例  abandon oneself to emotion 感情用事,abandon herself to a life of complete idleness 放纵自己过着闲散的生活",
+                    "prolongation_1": "近  indulge, surrender, give up"
+                }
+            },
+            {
+                "explain": {
+                    "chineseMeaning": "放弃",
+                    "englishMeaning": " to withdraw from often in the face of danger or encroachment",
+                    "property": "v"
+                },
+                "prolongations": {
+                    "prolongation_0": "例  abandon the ship/homes 弃船,离家",
+                    "prolongation_1": "反  salvage 救援"
+                }
+            },
+            {
+                "explain": {
+                    "chineseMeaning": "停止做某事",
+                    "englishMeaning": " to put an end to (something planned or previously agreed to)",
+                    "property": "v"
+                },
+                "prolongations": {
+                    "prolongation_0": "例  the bad weather forced NASA to abandon the launch 坏天气迫使NASA停止了发射",
+                    "prolongation_1": "近  abort, drop, repeal, rescind, revoke, call off",
+                    "prolongation_2": "反  keep, continue, maintain, carry on 继续"
+                }
+            }
+        ]
+    },
+    {
+        "english": "abase",
+        "id": 1,
+        "phonetic": "[ə'beis]",
+        "testTips": [
+            {
+                "explain": {
+                    "chineseMeaning": "降低(地位|职位|威望或尊严)",
+                    "englishMeaning": " to lower in rank, office, prestige, or esteem",
+                    "property": "v"
+                },
+                "prolongations": {
+                    "prolongation_0": "例  was unwilling to abase himself by pleading guilty to a crime that he did not commit 不愿意屈就自己去承认一个莫须有的罪名",
+                    "prolongation_1": "近  debauch, degrade, profane, vitiate, discredit, foul, smirch, take down",
+                    "prolongation_2": "反  elevate, ennoble, uplift, aggrandize, canonize, deify, exalt 使高贵,使有声望"
+                }
+            }
+        ]
+    },
+    {
+        "english": "abash",
+        "id": 2,
+        "phonetic": "[ə'bæʃ]",
+        "testTips": [
+            {
+                "explain": {
+                    "chineseMeaning": " 使尴尬,使羞愧",
+                    "englishMeaning": " to destroy the self-possession or self-confidence of ,disconcert, embarrass",
+                    "property": "vt"
+                },
+                "prolongations": {
+                    "prolongation_0": "例  Nothing could abash him. 没有什么可以使他感到难堪.",
+                    "prolongation_1": "近  discomfit, disconcert, discountenance, faze, fluster, nonplus, mortify",
+                    "prolongation_2": "反  embolden 使大胆"
+                }
+            }
+        ]
+    },
+    {
+        "english": "abate",
+        "id": 3,
+        "phonetic": "[ə'beit]",
+        "testTips": [
+            {
+                "explain": {
+                    "chineseMeaning": "减轻(程度或者强度)",
+                    "englishMeaning": " to reduce in degree or intensity",
+                    "property": "v"
+                },
+                "prolongations": {
+                    "prolongation_0": "例  abate his rage/pain 平息他的愤怒/减轻痛苦",
+                    "prolongation_1": "近  moderate, recede, subside, remit, wane, die (away or down or out),let up, phase down, ratchet (down),taper off",
+                    "prolongation_2": "反  intensify"
+                }
+            },
+            {
+                "explain": {
+                    "chineseMeaning": "减少(数量或者降低价值)",
+                    "englishMeaning": " to reduce in amount or value",
+                    "property": "v"
+                },
+                "prolongations": {
+                    "prolongation_0": "例  abate a tax 降低税收",
+                    "prolongation_1": "近  de-escalate, deplete, downscale, dwindle,",
+                    "prolongation_2": "反  augment, promote 增加"
+                }
+            },
+            {
+                "explain": {
+                    "chineseMeaning": "停止,撤销",
+                    "englishMeaning": " to put an end to",
+                    "property": "v"
+                },
+                "prolongations": {
+                    "prolongation_0": "例  abate a nuisance 停止伤害",
+                    "prolongation_1": "近  abrogate, annul, invalidate, nullify, rescind, vacate"
+                }
+            }
+        ]
+    },
+    {
+        "english": "abbreviate",
+        "id": 4,
+        "phonetic": "[ə'bri:vieit]",
+        "testTips": [
+            {
+                "explain": {
+                    "chineseMeaning": "缩写,缩短",
+                    "englishMeaning": " to make briefer",
+                    "property": "v"
+                },
+                "prolongations": {
+                    "prolongation_0": "例  abbreviate the word \"building\" as \"bldg.\" 将\"building\"缩写作\"bldg\"",
+                    "prolongation_1": "近  abridge, curtail, cut back, syncopate,truncate",
+                    "prolongation_2": "反  extend, protract, elongate, lengthen, prolong 延长"
+                }
+            }
+        ]
+    },
+    {
+        "english": "abdicate",
+        "id": 5,
+        "phonetic": "['æbdikeit]",
+        "testTips": [
+            {
+                "explain": {
+                    "chineseMeaning": "正式放弃(权力|责任)",
+                    "englishMeaning": " to renounce a throne,to relinquish (power or responsibility) formally",
+                    "property": "v"
+                },
+                "prolongations": {
+                    "prolongation_0": "例  abdicate the throne/crown 退位",
+                    "prolongation_1": "近  cede, relinquish, renounce, resign, step down (from)",
+                    "prolongation_2": "反  constitute, assume, usurp 任命,承担,篡位"
+                }
+            }
+        ]
+    }
+]

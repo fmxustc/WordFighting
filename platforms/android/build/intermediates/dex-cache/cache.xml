@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/franky/Desktop/Ionic_App/WordFighting/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="83bfba57d61a89bd7b1ca349a6f4ba97fbc36615">
+        <dex dex="/Users/franky/Desktop/Ionic_App/WordFighting/platforms/android/build/intermediates/pre-dexed/debug/classes-5786c6bd304ffc6e9c258762771c6d24021c04a3.jar" />
+    </item>
+
+</items>

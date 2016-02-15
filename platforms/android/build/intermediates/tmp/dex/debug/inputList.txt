@@ -1,0 +1,2 @@
+/Users/franky/Desktop/Ionic_App/WordFighting/platforms/android/build/intermediates/classes/debug
+/Users/franky/Desktop/Ionic_App/WordFighting/platforms/android/build/intermediates/pre-dexed/debug/classes-5786c6bd304ffc6e9c258762771c6d24021c04a3.jar

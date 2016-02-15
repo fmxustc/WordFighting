@@ -1,0 +1,14 @@
+<ion-tabs class="tabs-icon-top tabs-color-active-positive" ng-class="{'tabs-item-hide':$root.hideTabs}">
+  <!--单词表-->
+  <ion-tab title="单词表" icon-off="ion-ios-paper-outline" icon-on="ion-ios-paper" href="#/tab/words">
+    <ion-nav-view name="tab-words"></ion-nav-view>
+  </ion-tab>
+  <!--背单词-->
+  <ion-tab title="背单词" icon-off="ion-social-snapchat-outline" icon-on="ion-social-snapchat" href="#/tab/reciting">
+    <ion-nav-view name="tab-reciting"></ion-nav-view>
+  </ion-tab>
+  <!--设置-->
+  <ion-tab title="设置" icon-off="ion-ios-settings" icon-on="ion-ios-settings-strong" href="#/tab/setting">
+    <ion-nav-view name="tab-setting"></ion-nav-view>
+  </ion-tab>
+</ion-tabs>
